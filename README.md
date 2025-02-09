@@ -1,3 +1,3 @@
-git remote add origin https://github.com/askewai/StackingEnsMLSND.git
-git branch -M main
-git push -u origin main
+Coding of Publication with title, “Application of Ensemble Stacking Method for Classification of Bank Customer Loan Status.”
+
+DOI: https://doi.org/10.33005/senada.v4i1.339
